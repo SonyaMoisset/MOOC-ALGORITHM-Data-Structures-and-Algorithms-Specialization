@@ -11,3 +11,11 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - Acknowledgements (Optional)
 - Assignment: A plus B
 - Assignment: Maximum Pairwise Product
+
+#### Week 2
+##### Introduction
+- Why Study Algorithms?
+- Fibonacci Numbers
+- Greatest Common Divisor
+- Big-O Notation
+- Course Overview
