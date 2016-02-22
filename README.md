@@ -16,3 +16,6 @@ This Specialization is unique, because you will have a choice between two Capsto
 ### 17/02/2016
 - Enrolled in the program
 - Finished Week 1 | Welcome in Course 1 | Algorithm Toolbox
+
+### 22/02/2016
+- Finished Week 2 | Introduction in Course 1 | Algorithm Toolbox
