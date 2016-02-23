@@ -19,3 +19,6 @@ This Specialization is unique, because you will have a choice between two Capsto
 
 ### 22/02/2016
 - Finished Week 2 | Introduction in Course 1 | Algorithm Toolbox
+
+### 23/02/2016
+- Finished Week 3 | Greedy Algorithms in Course 1 | Algorithm Toolbox
