@@ -19,3 +19,10 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - Greatest Common Divisor
 - Big-O Notation
 - Course Overview
+
+#### Week 3
+##### Greedy Algorithms
+- Introduction
+- Grouping Children
+- Fractional Knapsack
+- Code Problems
