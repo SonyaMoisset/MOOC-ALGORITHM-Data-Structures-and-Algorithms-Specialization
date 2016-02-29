@@ -26,3 +26,11 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - Grouping Children
 - Fractional Knapsack
 - Code Problems
+
+#### Week 4
+##### Divide-and-Conquer
+- Introduction
+- Polynomial Multiplication
+- Master Theorem
+- Sorting Problem
+- Quick Sort
