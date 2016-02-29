@@ -34,3 +34,10 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - Master Theorem
 - Sorting Problem
 - Quick Sort
+
+#### Week 5
+##### Dynamic Programming
+- Change Problem
+- String Comparison
+- Knapsack
+- Placing Parentheses
